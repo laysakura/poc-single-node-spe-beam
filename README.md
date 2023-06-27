@@ -1,0 +1,1 @@
+Customized from <https://beam.apache.org/get-started/quickstart/java/> to use the original `SingleRunner` instead of DirectRunner.
